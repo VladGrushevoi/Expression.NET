@@ -3,6 +3,8 @@
 // var testBinaryExpression = new BinaryExpressionTest();
 // testBinaryExpression.Main();
 
-var testBlockExpr = new BlockExpression__Test();
+// var testBlockExpr = new BlockExpression__Test();
+// testBlockExpr.Main();
 
-testBlockExpr.Main();
+var textCondExpr = new ConditionalExpression__Test();
+textCondExpr.Main();
